@@ -1,0 +1,5 @@
+install.packages('compiler')
+install.packages('inline')
+install.packages('Rcpp')
+install.packages('microbenchmark')
+install.packages('rbenchmark')
